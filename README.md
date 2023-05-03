@@ -17,4 +17,3 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 ## Running the app in jenkins
 
 Generate a token and add to jenkins credentials 
-
